@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(6, 212, 239);
+}
+.inicio{
+    color: aliceblue;
+    background-color: blue;
+}
+div li,p{
+    color: aliceblue;
+}
+.titi{
+    color: rgb(238, 255, 0);
+    text-align: center;
+    background-color: rgb(9, 69, 160);
+}
+div h1{
+    color:rgb(225, 255, 0) ;
+    background-color:rgb(9, 69, 160) ;
+}
+.inicio{
+    font-size: 50px;
+}

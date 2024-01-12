@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(5, 25, 126);
+    font-size: 25px;
+    text-shadow: 20px black;
+}
+div p,li{
+    color: azure;
+}
+div h1{
+    color: rgb(246, 248, 248);
+    background-color: rgb(7, 69, 139);
+}
+.home{
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(7, 42, 156);
+    
+}
+p{
+    color: #fff;
+}
+.loge{
+    left: 310px;
+    position: relative;
+}
+.btn{
+    font-size: 50px;
+    background-color: #0792ee;
+    color: #fff;
+}

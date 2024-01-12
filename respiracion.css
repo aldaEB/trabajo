@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(5, 25, 126);
+    font-size: 20px;
+}
+div p{
+    color: white;
+}
+p{
+    color: aliceblue;
+}
+li{
+    color: aliceblue;
+}
+.inicio{
+color: rgb(244, 244, 250);
+background-color: rgb(14, 102, 168);
+font-size: 50px;
+}
+h1{
+    background-color: rgb(9, 33, 194);
+}
+.ti{
+    text-align: center;
+}
+.img{
+    left: 200px;
+    position: relative;
+}

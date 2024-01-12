@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(5, 25, 126);
+}
+.p{
+    color: rgb(252, 252, 253);
+}
+div h1{
+    color: rgb(229, 255, 0);
+    background-color: blue;
+}
+div p{
+    color: rgb(248, 252, 253);
+}
+div p,li{
+    color: rgb(239, 242, 244);
+}
+.title{
+    color: rgb(245, 241, 4);
+    text-align: center;
+}
+div h3{
+    color:aliceblue;
+}
+.container{
+        width: 400px;
+        height: auto;
+        margin: 50px auto;
+        overflow: hidden;
+       
+}
+/* .mario{
+    width: 200px;
+    margin: 0 auto;
+    display: block;
+    animation: mario 3s infinite;
+    position: relative;
+    left: 25px;
+} 
+@keyframes mario {
+    0%{
+        transform: translateY(-50px);
+    }
+    30%{
+        transform: translateY(0) rotate(5deg);
+    }
+    50%{
+        transform:  rotate(5deg);
+    }
+    75%{
+        transform:  rotate(5deg);
+    }
+    100%{
+        transform: translateY(-50px); 
+    }
+    
+} */
+.btn{
+    color: aliceblue;
+    font-size: 50px;
+    background-color: rgb(27, 101, 187);
+}
+h1{
+    background-color: rgba(6, 56, 112, 0.457);
+}
+h2{
+    background-color: rgb(6, 56, 112, 0.457) ;
+    color: yellow;
+}
+.amar{
+    color: yellow;
+
+}
+.loge{ 
+    position: relative;
+    left: 150px;
+}
